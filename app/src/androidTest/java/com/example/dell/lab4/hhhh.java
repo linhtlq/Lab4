@@ -5,4 +5,5 @@ package com.example.dell.lab4;
  */
 
 public class hhhh {
+    private String khsnh;
 }
